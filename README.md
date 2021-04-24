@@ -5,4 +5,3 @@ Experimental distributed application for handling HTTP requests
 
 Project used to test process of development and deployment of distribuited applications handling HTTP requests
 
-s
